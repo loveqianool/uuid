@@ -5,9 +5,9 @@
   "theme": {
 
     "# background-image": "背景图片",
-    "background-image": "https://gs.zme.ink/static/wallpaper/01.jpg"
+    "background-image": ""
   },
 
-  "# searchapi": "搜索引擎，默认百度，谷歌：https://www.google.com/search?q=",
-  "searchapi": "https://www.baidu.com/s?&wd="
+  "# searchapi": "搜索引擎，百度，谷歌 https://www.baidu.com/s?&wd=",
+  "searchapi": "https://www.google.com/search?q="
 }
